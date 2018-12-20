@@ -16,6 +16,8 @@
       <link rel="stylesheet" href="/lib/bootstrap-4.1.3-dist/css/bootstrap.min.css" />
       <!-- <link rel="stylesheet" href="/lib/bootstrap-4.1.3-dist/css/bootstrap-theme.min.css" /> -->
       <script type="text/javascript" src="/lib/bootstrap-4.1.3-dist/js/bootstrap.min.js"></script>
+      
+    <script src="../node_modules/lodash/lodash.js"></script>
 
     <script src="../node_modules/tinymce/tinymce.js"></script>
 
