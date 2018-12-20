@@ -1,0 +1,18 @@
+/* Show it is fixed to the top */
+body {
+  padding-top: 5rem;
+}
+body.mceContentBody {
+  background: #FFF;
+  font-size:100%;
+  word-wrap: break-word;
+}
+
+textarea {
+  height: 600px;
+}
+
+div.card iframe {
+  height: 696px;
+  width: 100%;
+}
