@@ -10,8 +10,7 @@ $(document).ready(function() {
         clearTimeout(doSubmit);
         doSubmit = setTimeout(function() {
           document.livePdf.submit()
-        }, 2000);
-        console.log(doSubmit);
+        }, 1750);
       });
     }
   });
