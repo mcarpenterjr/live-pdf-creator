@@ -1,5 +1,5 @@
 <?php
-require $_SERVER['DOCUMENT_ROOT'] . '/lib/tcpdf/tcpdf.php';
+require(dirname(__DIR__)  . '../../libs/TCPDF/tcpdf.php');
 
 $body = $_POST['editor'];
 
