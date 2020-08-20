@@ -16,7 +16,7 @@
       
     <script src="libraries/lodash/lodash-4.17.15.js"></script>
 
-    <script src="libraries/tinymce/js/tinymce/tinymce.js"></script>
+    <script src="/lib/tinymce/js/tinymce/tinymce.js"></script>
 
     <script src="js/index.js"></script>
     <link rel="stylesheet" type="text/css" href="css/index.css?rev=@@hash" />
