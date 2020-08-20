@@ -1,5 +1,6 @@
 <?php
-require(dirname(__DIR__)  . '../../libs/TCPDF/tcpdf.php');
+// die('../../libs/tcpdf/tcpdf.php');
+require_once '../libraries/tcpdf/tcpdf.php';
 
 $body = $_POST['editor'];
 
